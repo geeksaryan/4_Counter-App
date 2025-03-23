@@ -1,3 +1,5 @@
+# 🔗 Live Demo: https://counter-app-rosy-rho.vercel.app/
+
 # Counter App
 
 A simple Counter App built with HTML, CSS, and JavaScript. This app allows users to increase, decrease, or reset a counter value.
